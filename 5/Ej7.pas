@@ -1,4 +1,4 @@
-program Ej(input, output);
+program Ej7(input, output);
 var
 	tipo : char;
 	monto, total : real;
