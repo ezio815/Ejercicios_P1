@@ -1,4 +1,4 @@
-program ej5;
+program Ej5;
 var
     n, cua : Integer;
 begin
